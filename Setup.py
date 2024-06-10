@@ -17,7 +17,7 @@ setup(
     install_requires=[
         'spotipy>=2.0.0',
         'pandas>=1.0.0',
-        'configparser>=5.0.0'
+        'configparser>=5.0.0',
         'qobuz-dl>=0.9.9.10'
     ],
     entry_points={
