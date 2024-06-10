@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name='SpotToQob',
-    version='1.0.0',
+    version='1.0.1',
     author='Brendan Stupik',
     author_email='spottoqob@brendanstupik.anonaddy.com',
     description='Backup a CSV or Spotify playlist URL using Qobuz-dl',
