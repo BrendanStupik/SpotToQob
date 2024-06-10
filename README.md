@@ -22,7 +22,7 @@ You can reconfigure SpotToQob at any time using
 
 	--reconfigure
 
-##Examples:
+## Examples:
 
     SpotToQob path/to/playlist.csv
 
