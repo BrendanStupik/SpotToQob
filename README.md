@@ -1,5 +1,3 @@
-# SpotToBee
-
 SpotToQob is a command-line tool for backing up your Spotify playlists using the 'lucky' function in [Vitiko98](https://github.com/vitiko98)'s [qobuz-dl](https://github.com/vitiko98/qobuz-dl). 
 
 Fetching large playlists from Spotify requires Spotify API client credentials from https://developer.spotify.com/dashboard. The tool can be used without credentials to download small playlists, or alongside https://exportify.net/.
